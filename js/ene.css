@@ -1,0 +1,72 @@
+@font-face
+{
+   font-family: 'Roboto';
+   src: url('Roboto-Regular.eot');
+   src: url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Regular.svg#Roboto-Regular') format('svg'),
+        url('Roboto-Regular.ttf') format('truetype'),
+        url('Roboto-Regular.woff') format('woff');
+}
+@font-face
+{
+   font-family: 'Roboto Cn';
+   src: url('Roboto-BoldCondensed.eot');
+   src: url('Roboto-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-BoldCondensed.svg#Roboto-BoldCondensed') format('svg'),
+        url('Roboto-BoldCondensed.ttf') format('truetype'),
+        url('Roboto-BoldCondensed.woff') format('woff');
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a.style1
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+a.style1:visited
+{
+   color: #FF0000;
+   background: #4BA7FB;
+   text-decoration: underline;
+}
+a.style1:active
+{
+   color: #4BA7FB;
+   text-decoration: underline;
+}
+a.style1:hover
+{
+   color: #4BA7FB;
+   text-decoration: underline;
+}
+.st1
+{
+   font-family: "Roboto Cn";
+   font-size: 53px;
+   font-weight: bold;
+   font-style: normal;
+   text-align: center;
+   text-decoration: none;
+   color: #E73E1D;
+   background-color: transparent;
+   -webkit-text-shadow: 0px 3px 0px rgba(128,128,128,1.00);
+   -moz-text-shadow: 0px 3px 0px rgba(128,128,128,1.00);
+   -ms-text-shadow: 0px 3px 0px rgba(128,128,128,1.00);
+   text-shadow: 0px 3px 0px rgba(128,128,128,1.00);
+}
